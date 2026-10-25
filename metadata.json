@@ -1,0 +1,6 @@
+{
+  "name": "CartCraft",
+  "description": "CartCraft – Grocery Checklist. A modern, offline-first grocery checklist app with smart categorization, item quantities, instant filtering, and checklist progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
